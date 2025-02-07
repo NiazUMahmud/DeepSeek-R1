@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/cdf4d7cd-5cac-4db4-bc77-61d087c68297
 
-This project implements a simple Streamlit application that leverages the power of the Ollama LLM (specifically the `deepseek-r1` models) to assist with various conversational task including coding. 
+This project implements a simple Streamlit application that leverages the power of the Ollama LLM (specifically the `deepseek-r1` models) to assist with various conversational task including coding. Credit goes to Krish Naik.
 
 **Key Features:**
 
